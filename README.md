@@ -5,7 +5,7 @@
 #### Dimensional reduction, clustering, and UMAP have been complete.
 
 <p align="center">
-  <img src="https://github.com/ryanreis333/ctcl.meta/assets/16333059/1adbf11c-6e09-421c-aedb-fe7821189420" alt="Local Image" width="900" height="600">
+  <img src="https://github.com/ryanreis333/ctcl.meta/assets/16333059/1adbf11c-6e09-421c-aedb-fe7821189420" alt="Local Image" width="500" height="250">
 </p>
 
 #### The plan of this project is to explore the malignant and non-malignant compartments in CTCL.
