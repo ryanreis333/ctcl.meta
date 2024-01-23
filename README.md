@@ -4,7 +4,7 @@
 
 #### Dimensional reduction, clustering, and UMAP have been complete.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/ryanreis333/ctcl.meta/assets/16333059/1adbf11c-6e09-421c-aedb-fe7821189420" alt="Local Image" width="500" height="300">
 </p>
 
